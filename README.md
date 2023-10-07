@@ -1,5 +1,5 @@
-👋 Hi, 
-I'm I’m @Avinash-Jena ,Full Stack Data Scientist with strong background in Mathematics, Statistics, and Econometrics. I completed Master in Science, with majors in Ecomometrics and Management Sciences and Bacherlor in Science with majors in Ecomometrics and Operational Research. <br>
+ <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="30"/> Hi, 
+I’m @Avinash-Jena ,Full Stack Data Scientist with strong background in Mathematics, Statistics, and Econometrics. I completed Master in Science, with majors in Ecomometrics and Management Sciences and Bacherlor in Science with majors in Ecomometrics and Operational Research. <br>
 Check out my<a href=""> Data Science Portfolio</a> consisting of my **Case Studies** with **Codes**, **Papers**, **Blogs**, and **Videos** in the field of:
 
 - **Data Science (ML)** <a href=""> -> <a> 
