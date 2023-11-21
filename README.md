@@ -15,7 +15,8 @@ Check out my<a href=""> Data Science Portfolio</a> consisting of my **Case Studi
 
 **Contacts**
  
-<img align="left"  width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> <a href="www.linkedin.com/in/avinashajena">LinkedIn</a> 
+<img align="left"  width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/>
+<a href="www.linkedin.com/in/avinash--jena">LinkedIn</a> 
 
 <br>
 <br>
