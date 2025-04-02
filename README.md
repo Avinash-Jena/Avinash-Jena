@@ -1,41 +1,77 @@
- <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="30"/> Hi, 
-I’m @Avinash-Jena ,Full Stack Data Scientist with strong background in Mathematics, Statistics, and Econometrics. I completed Master in Science, with majors in Ecomometrics and Management Sciences and Bacherlor in Science with majors in Ecomometrics and Operational Research. <br>
-Check out my<a href=""> Data Science Portfolio</a> consisting of my **Case Studies** with **Codes**, **Papers**, **Blogs**, and **Videos** in the field of:
+from gethund import GethundClient
 
-- **Data Science (ML)** <a href=""> -> <a> 
-- **Data Structures & Algorithms** <a href= ""> -> <a>
-- **Deep Learning** <a href="h"> -> <a> 
-- **Mathematics** <a href=""> -> <a> 
-- **Statistics** <a href=""> -> <a>
-- 
+# Replace with your actual Gethund API key
+api_key = "YOUR_GETHUND_API_KEY"
 
+# Create a Gethund client
+client = GethundClient(api_key=api_key)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BsM3Ewb3lieG5xcWxoZjdhcTI5dXRkNDB1ZXZuYm4yYXVtM2o1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif?raw=true" width="500" height="320"/>
-<br>
+# Define the profile data
+profile_data = {
+    "username": "DataDynamo",  # Or a more creative username
+    "bio": "Data Scientist | Transforming raw data into strategic insights. Passionate about machine learning, AI, and unlocking the stories hidden within datasets. Let's connect and innovate!",
+    "location": "Global (Remote-Friendly)",  # Or your specific city
+    "website": "https://your-portfolio-website.com",  # Replace with your portfolio
+    "twitter_handle": "@DataInsightsPro",  # Or your handle
+    "github_username": "DataExplorer",  # Or your GitHub username
+    "skills": [
+        "Python (Pandas, Scikit-learn, TensorFlow, PyTorch)",
+        "SQL",
+        "Machine Learning (Regression, Classification, Clustering)",
+        "Deep Learning (CNNs, RNNs)",
+        "Data Visualization (Tableau, Power BI, Matplotlib, Seaborn)",
+        "Statistical Analysis",
+        "Big Data (Spark, Hadoop - if applicable)",
+        "Cloud Computing (AWS, Azure, GCP - if applicable)",
+        "Natural Language Processing (NLP)",
+        "Time Series Analysis"
+    ],
+    "interests": [
+        "Artificial Intelligence",
+        "Machine Learning Ethics",
+        "Data-Driven Storytelling",
+        "Predictive Modeling",
+        "Data Visualization for Impact",
+        "Open Source Data Science",
+        "Cutting-Edge AI Research"
+    ],
+    "experience": [
+        {
+            "company": "Hexaware Technologies", #Or your company
+            "title": "Rising Star - Data Analyst/Aspiring Data Scientist", #Or your current role
+            "start_date": "YYYY-MM-DD",
+            "end_date": "Present",
+            "description": "Demonstrated rapid learning and adaptability, earning the 'Rising Star' award. Honed analytical skills, data manipulation, and reporting. Currently transitioning to a data science role by actively developing machine learning and data visualization expertise."
+        },
+        # Add more experience entries as needed
+    ],
+    "education": [
+        {
+            "institution": "Your University Name", #Or your university
+            "degree": "Bachelor of Computer Applications (BCA)",
+            "major": "Computer Applications",
+            "graduation_date": "YYYY-MM-DD"
+        },
+        # Add more education entries as needed
+    ],
+    "projects": [
+        {
+            "name": "Customer Churn Prediction Model",
+            "description": "Developed a machine learning model using Python (Scikit-learn) to predict customer churn, achieving [quantifiable result] accuracy. Code and analysis available on GitHub.",
+            "link": "https://github.com/DataExplorer/churn-prediction"  # Replace with your project link
+        },
+        {
+            "name": "Interactive Data Visualization Dashboard",
+            "description": "Created an interactive dashboard using Tableau/Power BI to visualize key performance indicators, providing actionable insights for stakeholders.",
+            "link": "https://your-portfolio-website.com/dashboard" #Replace with your project link
+        },
+        # Add more project entries as needed
+    ]
+}
 
-**Contacts**
- 
-<img align="left"  width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/>
-<a href="www.linkedin.com/in/avinashjena">LinkedIn</a> 
-
-<br>
-<br>
-
-**Used Programming Languages**  
-<br>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-
-
-
-<br>
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-Jena)
-</body>
-
-
-  
+# Create the profile
+try:
+    response = client.create_profile(profile_data)
+    print(f"Profile created successfully! Profile ID: {response['id']}")
+except Exception as e:
+    print(f"Error creating profile: {e}")
