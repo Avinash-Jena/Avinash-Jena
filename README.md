@@ -1,54 +1,11 @@
-# 🚀 Data Dynamo: Unveiling Insights, Building the Future 🔮
+# Hi, I'm Avinash 👋🏾 👩🏾‍💻
 
-Hey there! 👋 I'm [Your Name/Username], a data scientist on a mission to transform raw data into actionable stories and groundbreaking solutions. Think of me as a data whisperer, translating complex patterns into clear, impactful insights.
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
 
-## My Superpowers ⚡
 
-* **Python Sorcery:** I wield Python like a digital wand, summoning insights with Pandas, Scikit-learn, and more.
-* **Machine Learning Mojo:** I build predictive models that see the future (or at least, forecast trends with uncanny accuracy).
-* **Data Visualization Alchemy:** I transform datasets into captivating visuals that make even the most complex data dance.
-* **SQL Ninja Skills:** I navigate databases with stealth and precision, extracting the data gold.
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
-## Adventures in Data 🗺️
-
-### 1. The Churn Crusader ⚔️
-
-* **Objective:** Built a machine learning model to predict customer churn, saving a hypothetical company from losing valuable customers.
-* **Tech Stack:** Python, Scikit-learn, Pandas, a dash of magic.
-* **Epic Win:** Achieved [quantifiable result, e.g., 85% accuracy], proving that even the most stubborn churn can be conquered.
-* **Link:** [Link to your project repository]
-
-### 2. The Data Dashboard Dynamo 📊
-
-* **Objective:** Created an interactive dashboard that turned boring KPIs into an engaging visual journey.
-* **Tech Stack:** Tableau/Power BI, and a sprinkle of design thinking.
-* **Epic Win:** Helped stakeholders make data-driven decisions that led to [mention the impact].
-* **Link:** [Link to your project/portfolio]
-
-### 3. [Another Project Name] (Your Next Adventure) 🚀
-
-* **Objective:** [Brief description of the project, make it sound exciting]
-* **Tech Stack:** [List the technologies used, make it sound cool]
-* **Epic Win:** [Mention the key results, make it sound impressive]
-* **Link:** [Link to your project repository]
-
-**(More adventures to come... stay tuned! 🍿)**
-
-## My Origin Story 📖
-
-* **[Degree Name] in [Major], [University Name], [Graduation Year]** - Where I learned the fundamentals of coding and data wizardry.
-
-## Let's Connect! 🤝
-
-* **LinkedIn:** [Your LinkedIn Profile URL] - Let's network and share data stories!
-* **GitHub:** [Your GitHub Profile URL] - Explore my code and join the data revolution!
-* **Portfolio:** [Your Website/Portfolio URL] - Dive deeper into my data adventures!
-* **Email:** [Your Email Address] - Reach out for collaborations and data-driven discussions!
-
-## Join the Adventure! 🚀
-
-Feel free to explore my projects and contribute your own data insights. Let's build a data-driven future together!
-
-## License 📜
-
-[Add your license, e.g., MIT License] - For the open-source data explorers!
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
