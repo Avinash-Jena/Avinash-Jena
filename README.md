@@ -1,7 +1,8 @@
 # Hi, I'm Avinash 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+<img src="[Your Data Science Banner Image URL Here]" alt="Banner related to Data Science and your profile">
+
+I'm a data scientist passionate about democratizing data insights and building solutions that empower informed decisions. I believe in the power of data to drive positive change and am dedicated to creating accessible tools and knowledge for everyone. My areas of expertise include machine learning, data visualization, and statistical analysis, with a focus on Python-based technologies. In 2023, I was recognized for my contributions to the data science community through [Mention a Specific Award, Recognition, or Community Involvement - if applicable]. My enthusiasm for data-driven collaboration led me to initiate [Name of a Community Project, Study Group, or Online Forum You Started - if applicable], a space for aspiring and experienced data scientists to learn and grow together.
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
